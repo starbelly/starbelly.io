@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/starbelly
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://starbelly.io
+  * I am starbelly (https://keybase.io/starbelly) on keybase.
+  * I have a public key ASDMJtTyDLAsjqRo7lnQNXPjg5Nf54tLb2wJeIJCdxEj8go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120027fec10d16c0d1c74036fa58083c534f0790a65b25d37ba820c8c16a61f19a20a",
+      "host": "keybase.io",
+      "kid": "0120cc26d4f20cb02c8ea468ee59d03573e383935fe78b4b6f6c09788242771123f20a",
+      "uid": "5b8266e1eac13943a773a0d02c7d0f19",
+      "username": "starbelly"
+    },
+    "merkle_root": {
+      "ctime": 1560725816,
+      "hash": "f8564f14bee1c72a2d5da75698efb964e91f5228a1d89aa53719865fdb9a2d0b2ca639d51e9a627617281bb79255cfa05998abcabefa9427962b98eb3df839ee",
+      "hash_meta": "1a808b53e6c7e9c7073474463f9c161817e7c2aecb7ca7100555f6e755fb6405",
+      "seqno": 5581851
+    },
+    "service": {
+      "entropy": "W4sb3OLmq4FBYXcXTHTepG/o",
+      "hostname": "starbelly.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.1.0"
+  },
+  "ctime": 1560725823,
+  "expire_in": 504576000,
+  "prev": "b3c2447f0a55459d61b4c47503c4ffc80f62d0b5d783c065161963f4e8fd4227",
+  "seqno": 56,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzCbU8gywLI6kaO5Z0DVz44OTX+eLS29sCXiCQncRI/IKp3BheWxvYWTESpcCOMQgs8JEfwpVRZ1htMR1A8T/yA9i0LXXg8BlFhlj9Oj9QifEIOYyzUdWNHL0NRpra/ItnhqnrVtjNV8gDGFODHekCjD5AgHCo3NpZ8RAk58KTLpoO1ROnLZtmEn7BolV9ujLW3v/dfylnVkiC8BXxjasbRVRG+pjAf1doraUcEtI4S9N0xcbmEW85wiOCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMFHmsMliXrc06wPZi/R/dyZFn3p7IsUmdCaa1UFq0g5o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/starbelly
+
+==================================================================
